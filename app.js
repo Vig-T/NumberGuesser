@@ -52,7 +52,7 @@ guessBtn.addEventListener("click", function() {
             }
         }
     })
-    // Game over
+    // Game over Function
 function gameOver(won, msg) {
     let color;
     color === true ? color = "red" : color = "green"
